@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">TAOL QR</string>
+    <string name="taol">TAOL</string>
+
+    <string name="id_title">아이디(이메일)</string>
+    <string name="id_hint">이메일주소를 입력해주세요.</string>
+    <string name="pwd_title">비밀번호</string>
+    <string name="pwd_hint">비밀번호를 입력해주세요.</string>
+
+    <string name="www_ta_ol_com"><u>www.ta-ol.com</u></string>
+
+    <string name="id">아이디</string>
+    <string name="id_find">아이디 찾기</string>
+    <string name="slash">/</string>
+    <string name="pwd_find">비밀번호 찾기</string>
+    <string name="user_find">아이디/비밀번호 찾기</string>
+
+    <string name="login">로그인</string>
+    <string name="login_info">회원가입을 하시려면\n웹사이트를 이용해 주시기 바랍니다.</string>
+
+    <string name="SEEKHAN">SEEKHAN</string>
+
+    <string name="scan_QR_code">Scan QR Code</string>
+    <string name="HISTORY">HISTORY</string>
+    <string name="history_info"><font color='#009FDE'>HISTORY</font>는 <font color='#009FDE'>최근 한달간</font>의 데이터만 확인 가능합니다.</string>
+
+    <string name="scan_info"><b><font color='#00B7FF'>QR코드</font></b>를 화면 안에\n인식시켜주세요.</string>
+
+    <string name="scan_result">Scan Result</string>
+    <string name="product_info">제품정보</string>
+    <string name="company">업체 :&#160;</string>
+    <string name="Product_name">품명</string>
+    <string name="Storage">보관방법</string>
+    <string name="weight">중량</string>
+    <string name="HS_CODE">HS CODE</string>
+    <string name="CBM">CBM</string>
+    <string name="CBM2">(가로x세로x높이)</string>
+    <string name="status">진행상태</string>
+    <string name="waiting">대기중</string>
+    <string name="result">확인</string>
+    <string name="Storage_keep">창고보관</string>
+    <string name="customer_send">고객발송</string>
+    <string name="modify">변경</string>
+    <string name="details">상세보기</string>
+
+    <string name="id_find_info">회사명을 입력해 주세요.</string>
+    <string name="manager_name">담당자 이름</string>
+    <string name="manager_info">담당자 이름을 입력해 주세요.</string>
+    <string name="phone">휴대폰 번호</string>
+    <string name="phone_info">휴대폰 번호를 입력해 주세요.</string>
+    <string name="id_find_result">회원님의 아이디는 다음과 같습니다.</string>
+    <string name="pwd_find_result">새로운 비밀번호를 재설정하여 주시기 바랍니다.</string>
+    <string name="pwd_new">새 비밀번호</string>
+    <string name="pwd_new_hint">새 비밀번호를 입력해 주세요.</string>
+    <string name="pwd_rule">8~16자리 영문 대소문자,숫자,특수문자를 혼합</string>
+    <string name="pwd_new_check">새 비밀번호 확인</string>
+
+    <string name="mypage">마이페이지</string>
+    <string name="user_info">회원정보</string>
+    <string name="pwd_change">비밀번호 변경</string>
+    <string name="logout">로그아웃</string>
+
+    <string name="company_title">회사명</string>
+    <string name="company_num">사업자등록번호</string>
+    <string name="company_addr">사업장 주소</string>
+    <string name="email">이메일</string>
+    <string name="company_phone">회사전화번호</string>
+    <string name="company_pax">회사팩스번호</string>
+    <string name="manager_phone">담당자 휴대폰번호</string>
+    <string name="user_explanation"><font color='#009FDE'>회원정보 수정</font>은 TAOL홈페이지에서 가능합니다.</string>
+    <string name="pwd_before">이전 비밀번호</string>
+    <string name="pwd_before_hint">이전 비밀번호를 입력해 주세요.</string>
+
+</resources>

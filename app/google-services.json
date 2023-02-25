@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "536638776685",
+    "project_id": "seekhan-1586a",
+    "storage_bucket": "seekhan-1586a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536638776685:android:116f9e9fc02223a7e4a664",
+        "android_client_info": {
+          "package_name": "com.wooriyo.seekhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536638776685-mbrnkdlijki04qmh8j52htvec29qof51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wooriyo.seekhan",
+            "certificate_hash": "01bba4d77e111c857a45df04e7dc3bd86b81c13d"
+          }
+        },
+        {
+          "client_id": "536638776685-1i49vqsech4ga870bt7vb7au5ut03oep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTltFwaGXMQSI5va949ghIbp8SxkCumc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536638776685-1i49vqsech4ga870bt7vb7au5ut03oep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536638776685-qvpejk5vb6td5dq001s7qubik52dc43m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wooriyo.Seekhan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
